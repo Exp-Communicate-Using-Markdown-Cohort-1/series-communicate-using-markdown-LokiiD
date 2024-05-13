@@ -5,3 +5,8 @@
 ```diff
 ..Tu non tanto
 ```
+
+Nonostante io sia più forte di te, tu..
+- [ ] Mi vuoi bene
+- [ ] Mi odi
+- [ ] Mi vuoi tantissimo benissimo lo stessissimo
