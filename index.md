@@ -1,1 +1,3 @@
-# Ciao Alessio, sono forte
+# Ciao Alessio, io sono forte, tu...
+
+![Image of Alessio](https://pbs.twimg.com/media/FvYr29WWwAIEKvI.jpg)
