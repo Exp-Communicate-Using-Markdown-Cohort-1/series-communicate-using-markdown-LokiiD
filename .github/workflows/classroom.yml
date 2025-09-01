@@ -12,7 +12,7 @@ jobs:
     if: github.actor != 'github-classroom[bot]'
     steps:
     - name: Checkout code
-      uses: actions/checkout@v4
+      uses: actions/checkout@v5
     - name: Step 1 Add Headers
       id: step-1-add-headers
       uses: classroom-resources/autograding-command-grader@v1
